@@ -1,0 +1,35 @@
+.scroll{
+    height: 100px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.label.pendingSpan{
+background-color: #f0ad4e;
+}
+.admindetail
+{
+	margin-top: 10px;
+}
+
+.bootstrap-dialog-footer-buttons .btn.btn-default{
+width: 85px;
+}
+.bootstrap-dialog-footer-buttons .btn.btn-primary{
+	width: 85px;
+	background-color: #428bca !important;
+	    border-color: #428bca !important;	
+}
+
+.pageTitleForHeaderFix{
+	margin-top:4% !important;
+}
+
+.headerFix{
+	z-index: 5 !important;
+	position: fixed !important;
+	width: 100% !important;
+}
+.dataTables_processing{
+	position: fixed
+}
